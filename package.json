@@ -1,0 +1,23 @@
+{
+  "name": "nodeapp",
+  "version": "0.0.1",
+  "description": "my first express app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies":{
+    "express": "*",
+    "ejs" : "*"
+    },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomsah/nodeapp.git"
+  },
+  "author": "thomas salah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomsah/nodeapp/issues"
+  },
+  "homepage": "https://github.com/tomsah/nodeapp"
+}
